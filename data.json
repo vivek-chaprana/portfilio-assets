@@ -1,0 +1,103 @@
+{
+  "Work": [
+    {
+      "id": 1,
+      "name": "Shoe Store",
+      "description": " This project is a simple Nike clone.The website is powered by Next.js for frontend rendering, Tailwind CSS for styling, Strapi for the backend, PostgreSQL for the database, and Stripe as the payment gateway.",
+      "tags": ["nextjs", "tailwindcss", "strapi", "stripe", "postgres"],
+
+      "demo": "https://nextshoestore.vercel.app",
+      "github": "https://github.com/vivek-chaprana/Shoe-Store"
+    },
+    {
+      "id": 2,
+      "name": "Weather App",
+      "description": "It is build using the React JS, with Weather Api for fetching weather data, Presented using backgroud images and icons in both °C and °F.",
+      "tags": ["react", "weather-api", "ip-info-api"],
+
+      "demo": "https://4cast4you.netlify.app/",
+      "github": "https://github.com/vivek-chaprana/weather-app"
+    },
+    {
+      "id": 3,
+      "name": "Superchat",
+      "description": "A real time chat room created using ReactJS and Firebase.",
+      "tags": ["react", "firebase", "styled-components"],
+
+      "demo": "https://super-chatroom.netlify.app/",
+      "github": "https://github.com/vivek-chaprana/superchat"
+    },
+    {
+      "id": 4,
+      "name": "Rock Paper Scisssors",
+      "description": "A multiplayer rock-paper-scissors game created using Socket.io, NodeJS, ExpressJS & ReactJS.",
+      "tags": ["react", "expressjs", "nodejs", "socket.io"],
+
+      "demo": "https://rock-paper-scissors-vicky.netlify.app/",
+      "github": "https://github.com/vivek-chaprana/rock-paper-scissors"
+    },
+    {
+      "id": 5,
+      "name": "Blog Page",
+      "description": "A markdown blog page application created using NextJS 13, Typescript and Tailwind CSS.",
+      "tags": ["nextjs", "tailwind", "typescript", ".md"],
+
+      "demo": "https://blog-page-orcin.vercel.app/",
+      "github": "https://github.com/vivek-chaprana/BlogPage"
+    },
+    {
+      "id": 6,
+      "name": "Todo App",
+      "description": "A simple todo app created using ReactJS, store data and todo's state in Localstorage.",
+      "tags": ["react", "css", "html"],
+
+      "demo": "https://todos-vicky.netlify.app/",
+      "github": "https://github.com/vivek-chaprana/react-todo"
+    },
+    {
+      "id": 7,
+      "name": "Realtime Todo",
+      "description": "A simple todo app created using NextJS and Firebase.",
+      "tags": ["NextJS", "Firebase", "google-auth", "realtime"],
+
+      "demo": "https://firebase-todo-nine.vercel.app/",
+      "github": "https://github.com/vivek-chaprana/next-todo"
+    },
+    {
+      "id": 8,
+      "name": "NextFlix",
+      "description": "A movie and web series recommendation tool created using NextJS 13.",
+      "tags": ["NextJS", "netflix", "netflix-api"],
+
+      "demo": "https://next-flix-khaki.vercel.app/",
+      "github": "https://github.com/vivek-chaprana/NextFlix"
+    },
+    {
+      "id": 9,
+      "name": "Mern Developers",
+      "description": "A simple application created using complete MERN Stack, having features like login, registration, JWT authentication and realtime data retrieval from MongoDB Atlas database.",
+      "tags": ["MongoDB", "ExpressJS", "ReactJS", "NodeJS", "JWT"],
+
+      "demo": "https://mern-devs.vercel.app/",
+      "github": "https://github.com/vivek-chaprana/MERN"
+    },
+    {
+      "id": 10,
+      "name": "Amazon Product Page",
+      "description": "A simple replica of Amazon  Product Page having functionalities like Sorting and Filtering elements on basis of different properties.",
+      "tags": ["html", "css", "javascript"],
+
+      "demo": "https://amazon-product-page.netlify.app/",
+      "github": "https://github.com/vivek-chaprana/Amazon-product-page"
+    },
+    {
+      "id": 11,
+      "name": "Amazon Product Search",
+      "description": "A simple replica of Amazon Product created using ReactJs and React Router for routing components and functions , having functionalities like live search and product detailed view.",
+      "tags": ["react", "router-dom", "css"],
+
+      "demo": "https://tttky9.csb.app/",
+      "github": "https://codesandbox.io/s/tttky9?file=/src/App.js"
+    }
+  ]
+}
